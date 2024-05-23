@@ -1,0 +1,9 @@
+export 'splash_screen.dart';
+export 'main_screen.dart';
+export 'single_player_screen.dart';
+export 'multiple_players_screen.dart';
+export 'shop_screen.dart';
+export 'premium_screen.dart';
+export 'game_screen.dart';
+export 'next_association_screen.dart';
+export 'result_screen.dart';
